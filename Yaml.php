@@ -1,5 +1,5 @@
 <?php
-namespace Alchemy\Component\Yaml;
+namespace Jankx\Yaml;
 
 /**
  * Yaml Class
